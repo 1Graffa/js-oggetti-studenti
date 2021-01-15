@@ -1,1 +1,1 @@
-js-oggetti-studenti
+js-jq-carousel
